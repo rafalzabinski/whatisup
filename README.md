@@ -1,6 +1,7 @@
 # What is up NYC?
 
-Satellite dashboard. 
+This dashboard is providing information about active satellites that are currently orbiting around the Earth. 
+"What is up NYC?" map is showing satellites above NYC in real time.
 
 ## Built with
 
