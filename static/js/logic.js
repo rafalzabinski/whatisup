@@ -21,7 +21,7 @@ var myIcon = L.icon({
 });
 
 //Getting data from API
-  const url = "https://www.n2yo.com/rest/v1/satellite/above/40.712/- 74.006/0/15/0/&apiKey=89JM8P-7EKT97-MQ65JT-4GYK"
+  const url = " https://protected-forest-80266.herokuapp.com/https://api.n2yo.com/rest/v1/satellite/above/41.702/-76.014/0/70/18/&apiKey=89JM8P-7EKT97-MQ65JT-4GYK"
   async function getSat() {
     const response = await fetch(url);
     const data = await response.json();
